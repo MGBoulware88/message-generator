@@ -1,0 +1,33 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+div {
+    margin: 10vh 15vw;
+    padding: 2rem;
+    border: 1px solid #0b2447;
+    border-radius: 10rem;
+}
+
+button {
+    background-color: #a5d7e8;
+    padding: 5px;
+    border-radius: 10rem;
+    cursor: pointer;
+}
+
+.header {
+    color:#19376d;
+    margin-bottom: 5px;
+}
+
+.message {
+    margin: 15px 5px;;
+    color:#19376d;
+}
+
