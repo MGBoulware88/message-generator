@@ -16,7 +16,7 @@ const getRandMessage = (arr1, arr2, arr3) => {
     return randMessage.join(" ");
 }; 
 
-const randMessage = getRandMessage(messageArr1, messageArr2, messageArr3);
+// const randMessage = getRandMessage(messageArr1, messageArr2, messageArr3);
 
 const generateMessage = () => {
     messageContainer.innerHTML = getRandMessage(messageArr1, messageArr2, messageArr3);
